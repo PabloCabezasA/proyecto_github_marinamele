@@ -1,0 +1,5 @@
+myenv
+devenv
+testenv
+*.pyc
+myproject/static
